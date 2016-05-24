@@ -1,8 +1,8 @@
 {
-  "name": "inquirer",
-  "version": "1.0.2",
+  "name": "monaca-inquirer",
+  "version": "1.0.0",
   "description": "A collection of common interactive command line user interfaces.",
-  "author": "Simon Boudrias <admin@simonboudrias.com>",
+  "author": "Simon Boudrias <admin@simonboudrias.com>, Fran Dios <me@frandiox.com>",
   "files": [
     "lib"
   ],
@@ -19,7 +19,7 @@
     "test": "gulp",
     "prepublish": "gulp prepublish"
   },
-  "repository": "SBoudrias/Inquirer.js",
+  "repository": "frankdiox/Inquirer.js",
   "license": "MIT",
   "dependencies": {
     "ansi-escapes": "^1.1.0",
